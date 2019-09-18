@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Day1Calibration": {
+      "commandName": "Project",
+      "commandLineArgs": "Day1Input.txt"
+    }
+  }
+}
